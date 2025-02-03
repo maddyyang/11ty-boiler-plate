@@ -1,7 +1,5 @@
 ---
-layout: layout.liquid
-title: About
+layout: base.liquid
+title: "About Me"
 ---
-
-# About the 11ty **Boilerplate**
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+I'm a lone explorer charting the vast cosmos. This blog is my log of discoveries, encounters, and the beauty of the unknown.
