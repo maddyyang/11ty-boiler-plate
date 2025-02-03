@@ -1,5 +1,5 @@
 ---
-layout: base.liquid
+layout: base
 title: "The Silence Beyond the Event Horizon"
 ---
 As I drift closer to the event horizon of a black hole, the space around me seems unnaturally silent. The usual hum of my ship’s engines and the distant signals from other vessels have faded. It's as if all of existence has paused, awaiting my decision. I can feel the pull of the singularity, yet I can't look away. Am I merely a witness to this cosmic spectacle, or is there something deeper awaiting me on the other side?
