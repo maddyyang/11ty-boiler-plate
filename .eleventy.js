@@ -1,11 +1,15 @@
 
 module.exports = function(eleventyConfig) {
-  // Passthrough copy for images and styles
-  eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addPassthroughCopy("styles");
-
-  // Shortcode for reusable callouts
-  eleventyConfig.addShortcode("callout", function(text) {
-      return `<div class="callout">${text}</div>`;
+  // Create a "posts" collection from Markdown files in the posts folder
+  eleventyConfig.addCollection("posts", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("posts/*.md");
   });
+
+  return {
+    dir: {
+      input: ".",
+      includes: "_includes",
+      layouts: "_includes"
+    }
+  };
 };

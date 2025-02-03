@@ -1,7 +1,10 @@
 ---
 layout: base
 title: "The Lost World of Gliese 581g"
+tags: posts
+permalink: /posts/post1/
 ---
+
 Gliese 581g, once believed to be a potentially habitable planet, reveals its secrets in strange and unsettling ways. I’ve explored its alien terrain for weeks, but the world continues to defy logic. The land is barren, with no sign of life, yet faint signs of an ancient civilization are scattered across the landscape: towering stone structures, worn by time, stand silent against the backdrop of a dusty red sky.
 
 I’ve spent days studying the ruins, trying to piece together their story. What caused the fall of this once-thriving culture? Could they have met the same fate I fear awaits all explorers—lost to the vastness of space and time?
